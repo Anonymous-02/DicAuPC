@@ -1,0 +1,42 @@
+Processeur :
+	- Ryzen 3 3200G
+		- https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in11016972.html#ae215 (138,99€)
+		- https://www.ldlc.com/fiche/PB00273788.html#585a4fefd91c5 (149,95€)
+
+	- Ryzen 5 3600
+		- https://www.ldlc.com/fiche/PB00423328.html#585a4fefd91c5 (229,96€)
+		- https://www.amazon.fr/dp/B07STGGQ18/ref=asc_df_B07STGGQ181616702400000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B07STGGQ18&linkCode=df0&smid=A1LUM68D2SVV3E (198€)
+		- https://www.darty.com/nav/achat/informatique/bureau-bureau/bureau/amd_100-100000031box.html?awc=7735_1617023274_70a41634b7e0c230dc3880f5413355b6&ectrans=1&dartycid=aff_295295_generique_awin (186€)
+		- https://www.rueducommerce.fr/produit/amd-ryzen-5-3600-with-wraith-stealth-cooler-81426209?utm_source=295295&utm_medium=affiliation&utm_content=lien-profond&utm_campaign=awin_prive&awc=18037_1617023287_5ead5e800693022cdf6a8370e5ccf9a9 (209,90€)
+		- https://www.cdiscount.com/informatique/processeurs/amd-processeur-ryzen-5-3600-wraith-stealth-cooler/f-10764-100100000031box.html?idOffre=-1&awc=6948_1617023288_640f151c8628d56e26bacd51ad6a3dd0&cid=affil&cm_mmc=zanoxpb-_-295295 (212,99€)
+	
+	- Ryzen 7 3700X
+		- https://www.amazon.fr/dp/B07SXMZLPK/ref=asc_df_B07SXMZLPK1617015600000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B07SXMZLPK&linkCode=df0&smid=A1G9Q66TT9H0IC (287,44€)
+		- https://www.cdiscount.com/informatique/processeurs/amd-processeur-ryzen-7-3700x-wraith-prism-cooler/f-10764-100100000071box.html?idOffre=-1&awc=6948_1617024073_2aeddebcca6ac5ed7dcf3e04624b3f4c&cid=affil&cm_mmc=zanoxpb-_-295295 (299,99€)
+		- https://www.rueducommerce.fr/produit/amd-ryzen-7-3700x-with-wraith-prism-cooler-81426195?utm_source=295295&utm_medium=affiliation&utm_content=lien-profond&utm_campaign=awin_prive&awc=18037_1617024077_af5b4908d77581f70defdbf61020d156 (329,90€)
+		- https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in11016968.html#ae215 (369,99€)
+		- https://www.ldlc.com/fiche/PB00273565.html#585a4fefd91c5 (389,95€)
+
+	- Ryzen 9 3900X
+		- https://www.amazon.fr/dp/B07SXMZLP9/ref=asc_df_B07SXMZLP91616788800000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B07SXMZLP9&linkCode=df0&smid=A1X6FK5RDHNB96 (458,99€)
+		- https://www.cdiscount.com/informatique/processeurs/amd-processeur-ryzen-9-3900x-wraith-prism-cooler/f-10764-100100000023box.html?idOffre=-1&awc=6948_1617024301_ca9996b61d4fbb7f35c2e82ee18b5be7&cid=affil&cm_mmc=zanoxpb-_-295295 (458,99€)
+		- https://www.darty.com/nav/achat/informatique/bureau-bureau/bureau/amd_100-100000023box.html?awc=7735_1617024307_c4b320b1684a82c6a21b875e1c9f5512&ectrans=1&dartycid=aff_295295_generique_awin (499,99€)
+		- https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wpr_puis_ref_est_in11016966.html#ae215 (529,99€)
+		- https://www.ldlc.com/fiche/PB00273570.html#585a4fefd91c5 (584,95€)
+
+Mémoire :
+	- 8Go 2666 MHz :
+		- https://www.amazon.fr/dp/B07WD5VKTS/ref=asc_df_B07WD5VKTS1616972400000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B07WD5VKTS&linkCode=df0&smid=A1X6FK5RDHNB96 (51,06€)
+
+	- 16Go 3600MHz :
+		- https://www.amazon.fr/dp/B07RM39V5F/ref=asc_df_B07RM39V5F1617015600000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B07RM39V5F&linkCode=df0&smid=A1X6FK5RDHNB96 (105,90€)
+
+Refroidisseur CPU :
+	- Arctic
+		- https://www.amazon.fr/dp/B076LX4DJF/ref=asc_df_B076LX4DJF1615989600000/?tag=ledenicheur-amazon-fr-21&creative=22950&creativeASIN=B076LX4DJF&linkCode=df0&smid=A1X6FK5RDHNB96&th=1 (32,05€)
+	- Be Quiet!
+		- https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_w_ven_puis_ref_est_in20002249.html#ae215 (43,99€)
+		- https://www.ldlc.com/fiche/PB00340585.html#585a4fefd91c5 (44,95€)
+	
+		- https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_w_ven_puis_ref_est_in10111350.html#ae215 (69,99€)
+		- https://www.rueducommerce.fr/produit/be-quiet-ventirad-dark-rock-4-135mm-32769180?utm_source=295295&utm_medium=affiliation&utm_content=lien-profond&utm_campaign=awin_prive&awc=18037_1617025669_16ab20ee2b39e56f283fec290ab5b956 (69,99€)

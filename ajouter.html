@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="DicAuPC-evan.css">
+		<title>Admin - Ajouter</title>
+	</head>
+	<body class="fond-admin">
+		<form method="post" action="ajouter.php">
+			<span>dans quelle catégorie souhaitez vous ajouter un élément ?</span><br>
+			<input value="Composant" type="radio" name="Catégorie" id="composant"/><label for="composant">Composant</label>
+			<input value="Configuration" type="radio" name="Catégorie" id="configuration"/><label for="configuration">Configuration</label>
+			<input value="Tutoriel" type="radio" name="Catégorie" id="tutoriel"/><label for="tutoriel">Tutoriel</label><br>
+			<input type="submit" value="Submit">
+		</form>

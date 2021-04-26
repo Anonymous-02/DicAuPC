@@ -1,0 +1,64 @@
+p, h3{
+    font-family: Lucida Sans Unicode;
+}
+img{
+  background-color: #333;
+  height: 75px;
+}
+h3{
+    vertical-align: middle;
+    font-size: 30px;
+}
+.menu {
+    text-align: center;
+    display: flex;
+}
+
+.menu .categorie {
+    flex: 1;
+    background: #333;
+    position: relative;
+    vertical-align: text-bottom;
+}
+
+.menu .categorie ul {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+}
+
+.menu .categorie:hover ul {
+    max-height: 50em;
+    transition: 1s;
+}
+
+.menu h3,.menu p {
+    display: block;
+    margin: 0;
+    padding: .5em 1.5em;
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+}
+.menu p{
+    font-size: 20px;
+}
+.menu, .categorie:hover h3 {
+    color: white;
+    background-color: #454545;
+}
+.menu p:hover {
+    color: white;
+    background-color: #454545;
+}
+.conteneur{
+  margin: 20px 20px;
+}

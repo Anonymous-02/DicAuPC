@@ -1,0 +1,44 @@
+.menu {
+	text-align: center;
+	display: flex;
+}
+.menu .categorie {
+	flex: 1;
+	position: relative;
+}
+.menu .categorie ul {
+	max-height: 0;
+	overflow: hidden;
+	transition: 0;
+	position: absolute;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: 100%; 
+}
+.menu .categorie:hover ul {
+	max-height: 50em;
+	transition: 1s;
+}
+.menu h3{
+	background-color: #333
+}
+.menu h3,.menu a {
+	display: block;
+	margin: 0;
+	padding: .5em 1.5em;
+	font-size: inherit;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+.menu a{
+	background-color: #454545
+}
+.menu .categorie:hover h3 {
+	color: white;
+}
+.menu a:hover {
+	color: white;
+}
